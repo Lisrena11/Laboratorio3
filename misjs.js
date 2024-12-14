@@ -1,7 +1,7 @@
 
 
 function segura() {
-    pwd = prompt( "Contraseñaa" ) ;
+    pwd = prompt( "Contraseña" ) ;
 
     vcv = 0 ;       // CONTADORA DE VOCALES
     vcc = 0 ;       // CONTADORA DE CONSONANTES
